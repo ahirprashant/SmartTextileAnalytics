@@ -1,0 +1,216 @@
+/* ==========================================
+   Smart Textile Analytics - Professional UI
+========================================== */
+
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+    font-family:'Segoe UI',Tahoma,Geneva,Verdana,sans-serif;
+}
+
+body{
+    background:#f4f7fc;
+}
+
+/* Sidebar */
+
+.sidebar{
+    position:fixed;
+    left:0;
+    top:0;
+    width:250px;
+    height:100vh;
+    background:linear-gradient(180deg,#1e3c72,#2a5298);
+    color:#fff;
+    padding:25px 15px;
+    overflow-y:auto;
+}
+
+.sidebar h3{
+    text-align:center;
+    margin-bottom:35px;
+    font-size:28px;
+    font-weight:700;
+}
+
+.sidebar a{
+    display:block;
+    color:#fff;
+    text-decoration:none;
+    padding:14px 18px;
+    margin-bottom:8px;
+    border-radius:12px;
+    transition:.3s;
+    font-size:16px;
+}
+
+.sidebar a i{
+    width:25px;
+}
+
+.sidebar a:hover,
+.sidebar a.active{
+    background:#fff;
+    color:#1e3c72;
+}
+
+/* Content */
+
+.content{
+    margin-left:250px;
+    padding:30px;
+    min-height:100vh;
+}
+
+/* Heading */
+
+.page-title{
+    font-size:34px;
+    font-weight:700;
+    margin-bottom:25px;
+}
+
+/* Cards */
+
+.card{
+    border:none;
+    border-radius:18px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    transition:.3s;
+}
+
+.card:hover{
+    transform:translateY(-5px);
+}
+
+.card-body{
+    padding:22px;
+}
+
+.card h5{
+    font-size:16px;
+    opacity:.9;
+}
+
+.card h2{
+    margin-top:10px;
+    font-size:34px;
+    font-weight:700;
+}
+
+/* Dashboard Colors */
+
+.bg-primary{
+    background:linear-gradient(135deg,#4e73df,#224abe)!important;
+}
+
+.bg-success{
+    background:linear-gradient(135deg,#1cc88a,#13855c)!important;
+}
+
+.bg-warning{
+    background:linear-gradient(135deg,#f6c23e,#dda20a)!important;
+}
+
+.bg-danger{
+    background:linear-gradient(135deg,#e74a3b,#be2617)!important;
+}
+
+.bg-info{
+    background:linear-gradient(135deg,#36b9cc,#258391)!important;
+}
+
+/* Tables */
+
+.table{
+    background:#fff;
+    border-radius:15px;
+    overflow:hidden;
+}
+
+.table thead{
+    background:#1f2937;
+    color:#fff;
+}
+
+.table th{
+    padding:15px;
+    font-size:15px;
+}
+
+.table td{
+    padding:14px;
+    vertical-align:middle;
+}
+
+.table tbody tr:hover{
+    background:#f3f8ff;
+}
+
+/* Buttons */
+
+.btn{
+    border-radius:10px;
+    padding:8px 18px;
+    font-weight:600;
+}
+
+/* Forms */
+
+.form-control,
+.form-select{
+    border-radius:10px;
+    padding:10px;
+}
+
+label{
+    font-weight:600;
+}
+
+/* Chart Card */
+
+.chart-card{
+    background:#fff;
+    border-radius:18px;
+    box-shadow:0 10px 25px rgba(0,0,0,.08);
+    padding:20px;
+    margin-top:30px;
+}
+
+/* Responsive */
+
+@media(max-width:992px){
+
+.sidebar{
+    width:220px;
+}
+
+.content{
+    margin-left:220px;
+}
+
+}
+
+@media(max-width:768px){
+
+.sidebar{
+    position:relative;
+    width:100%;
+    height:auto;
+}
+
+.content{
+    margin-left:0;
+    padding:15px;
+}
+
+.page-title{
+    font-size:28px;
+}
+
+.card h2{
+    font-size:26px;
+}
+
+}

@@ -1,0 +1,184 @@
+{% extends "base.html" %}
+
+{% block title %}Dashboard{% endblock %}
+
+{% block content %}
+
+<div class="container-fluid">
+
+    <!-- Heading -->
+
+    <h2 class="page-title mb-4">
+        <i class="fa-solid fa-chart-line"></i>
+        Smart Textile Analytics Dashboard
+    </h2>
+
+    <!-- Dashboard Cards -->
+
+    <div class="row g-3">
+
+        <!-- Customers -->
+
+        <div class="col-lg col-md-6">
+            <div class="card bg-primary text-white">
+                <div class="card-body">
+                    <h6><i class="fa fa-users"></i> Total Customers</h6>
+                    <h2>{{ total_customers }}</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Products -->
+
+        <div class="col-lg col-md-6">
+            <div class="card bg-success text-white">
+                <div class="card-body">
+                    <h6><i class="fa fa-box"></i> Total Products</h6>
+                    <h2>{{ total_products }}</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Sales -->
+
+        <div class="col-lg col-md-6">
+            <div class="card bg-warning text-dark">
+                <div class="card-body">
+                    <h6><i class="fa fa-cart-shopping"></i> Total Sales</h6>
+                    <h2>{{ total_sales }}</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Revenue -->
+
+        <div class="col-lg col-md-6">
+            <div class="card bg-danger text-white">
+                <div class="card-body">
+                    <h6><i class="fa fa-indian-rupee-sign"></i> Total Revenue</h6>
+                    <h2>₹ {{ "{:,.2f}".format(total_revenue) }}</h2>
+                </div>
+            </div>
+        </div>
+
+        <!-- Profit -->
+
+        <div class="col-lg col-md-6">
+            <div class="card bg-info text-white">
+                <div class="card-body">
+                    <h6><i class="fa fa-chart-column"></i> Total Profit</h6>
+                    <h2>₹ {{ "{:,.2f}".format(total_profit) }}</h2>
+                </div>
+            </div>
+        </div>
+
+    </div>
+
+    <!-- Chart -->
+
+    <div class="card mt-4 shadow">
+
+        <div class="card-header bg-dark text-white">
+            <h5 class="mb-0">
+                Monthly Sales Report
+            </h5>
+        </div>
+
+        <div class="card-body">
+
+            <div style="height:420px;">
+                <canvas id="salesChart"></canvas>
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+<!-- Chart JS -->
+
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+
+<script>
+
+const months = {{ months | tojson | safe }};
+const sales = {{ sales | tojson | safe }};
+
+const ctx = document.getElementById('salesChart');
+
+new Chart(ctx, {
+
+    type: 'bar',
+
+    data: {
+
+        labels: months,
+
+        datasets: [{
+
+            label: 'Monthly Sales',
+
+            data: sales,
+
+            backgroundColor: '#4e73df',
+
+            borderColor: '#224abe',
+
+            borderWidth: 1,
+
+            borderRadius: 8
+
+        }]
+
+    },
+
+    options: {
+
+        responsive: true,
+
+        maintainAspectRatio: false,
+
+        plugins: {
+
+            legend: {
+
+                display: true
+
+            }
+
+        },
+
+        scales: {
+
+            x: {
+
+                grid: {
+
+                    display: false
+
+                }
+
+            },
+
+            y: {
+
+                beginAtZero: true,
+
+                grid: {
+
+                    color: "#e5e7eb"
+
+                }
+
+            }
+
+        }
+
+    }
+
+});
+
+</script>
+
+{% endblock %}

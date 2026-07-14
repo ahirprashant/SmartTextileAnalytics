@@ -1,0 +1,101 @@
+{% extends "base.html" %}
+
+{% block title %}
+Add Sale
+{% endblock %}
+
+{% block content %}
+
+<div class="container mt-4">
+
+    <div class="card shadow">
+        <div class="card-header bg-primary text-white">
+            <h4 class="mb-0">Add Sale</h4>
+        </div>
+
+        <div class="card-body">
+
+            <form method="POST">
+
+                <!-- Customer -->
+                <div class="mb-3">
+                    <label class="form-label">Customer</label>
+
+                    <select name="customer_id" class="form-select" required>
+                        <option value="">Select Customer</option>
+
+                        {% for customer in customers %}
+                        <option value="{{ customer[0] }}">
+                            {{ customer[1] }}
+                        </option>
+                        {% endfor %}
+
+                    </select>
+                </div>
+
+                <!-- Product -->
+                <div class="mb-3">
+                    <label class="form-label">Product</label>
+
+                    <select name="product_id" class="form-select" required>
+
+                        <option value="">Select Product</option>
+
+                        {% for product in products %}
+
+                        <option value="{{ product[0] }}">
+                            {{ product[1] }} - {{ product[2] }} ({{ product[3] }})
+                        </option>
+
+                        {% endfor %}
+
+                    </select>
+                </div>
+
+                <!-- Quantity -->
+                <div class="mb-3">
+                    <label class="form-label">Quantity</label>
+
+                    <input
+                        type="number"
+                        name="quantity"
+                        class="form-control"
+                        min="1"
+                        required>
+                </div>
+
+                <!-- Payment Method -->
+                <div class="mb-3">
+                    <label class="form-label">Payment Method</label>
+
+                    <select name="payment_method" class="form-select" required>
+
+                        <option value="Cash">Cash</option>
+                        <option value="UPI">UPI</option>
+                        <option value="Card">Card</option>
+                        <option value="Net Banking">Net Banking</option>
+
+                    </select>
+                </div>
+
+                <!-- Buttons -->
+                <div class="text-end">
+
+                    <a href="/sales" class="btn btn-secondary">
+                        Cancel
+                    </a>
+
+                    <button type="submit" class="btn btn-success">
+                        <i class="fa fa-save"></i> Save Sale
+                    </button>
+
+                </div>
+
+            </form>
+
+        </div>
+    </div>
+
+</div>
+
+{% endblock %}

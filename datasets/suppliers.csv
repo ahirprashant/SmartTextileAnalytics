@@ -1,0 +1,101 @@
+supplier_id,supplier_name,city,contact,email,rating
+1,"Kapur, Peri and Bhagat",Bharuch,8779891889,koshychakradev@thaman.com,3
+2,Pau-Thaker,Vapi,9361566026,janujaparmer@bir-ahuja.com,5
+3,"Ghosh, Patla and Chaudhary",Bhavnagar,9263322634,nihal92@verma.com,5
+4,Kakar PLC,Bhavnagar,1542816221,zratti@bandi.biz,5
+5,Modi Ltd,Bharuch,4500369062,rgour@gupta-palla.com,3
+6,"Dutta, Devi and Khosla",Bhavnagar,8708497056,yachana03@bhalla.org,4
+7,"Garg, Sane and Ahuja",Bharuch,3673042437,ladshravya@sharaf-viswanathan.com,5
+8,Mody-Sawhney,Bharuch,9664904858,upadhritinarain@luthra.com,3
+9,Sarin-Varma,Surat,4600245241,aishanipandey@manda.com,5
+10,Bhatti LLC,Rajkot,3522172761,sanya95@more.net,4
+11,Goel-Kunda,Rajkot,5984212556,falan40@keer.biz,4
+12,Gill PLC,Bharuch,0171593139,sdeshmukh@rastogi-mital.com,4
+13,"Doctor, Banerjee and Uppal",Bhavnagar,9482973470,hemal60@banik.com,5
+14,Sawhney-Ray,Bharuch,4266242085,saikarpe@kurian.com,4
+15,"Kalita, Dave and Garde",Bharuch,4734116098,owenoommen@venkataraman.com,3
+16,Borde-Gaba,Bhavnagar,6613984213,jasonchandra@yadav-badami.com,5
+17,"Vig, Konda and Divan",Ahmedabad,8632941118,kamala16@patla.net,4
+18,Ray Group,Vadodara,8286081078,ekantika97@gulati.org,5
+19,Sachdev-Jani,Bharuch,0203474345,nsama@roy-tella.com,3
+20,"Manda, Bhatnagar and Virk",Vadodara,7787090532,nishasalvi@bala.biz,5
+21,Bhatt Group,Vadodara,4276916569,eta76@pathak.com,5
+22,Panchal LLC,Anand,9944593861,kavya64@bassi.com,3
+23,Sahni-Mahajan,Surat,4131747826,chandanibora@karan.info,3
+24,"Parikh, Narain and Chaudhuri",Vadodara,2946952695,xsharma@ratti-oza.biz,3
+25,"Raj, Pandey and Kadakia",Rajkot,8269284996,asarma@ben.com,4
+26,Muni LLC,Vapi,6483871370,xvora@dhillon.com,4
+27,Oak Ltd,Rajkot,5310383379,dakshesh87@kari.org,4
+28,"Patla, Shanker and Kakar",Vadodara,8708155518,dubeymanya@sule.com,4
+29,"Dasgupta, Lala and Gill",Vapi,8205026752,ekiya76@dubey-bains.org,5
+30,Deshmukh-Sabharwal,Vapi,8858957292,wardaborah@gala.com,5
+31,Chandra-Minhas,Ahmedabad,3417538392,jairaj78@mukherjee.com,4
+32,Mishra-Dar,Ahmedabad,5989459984,jravi@rajagopalan.com,5
+33,"Shroff, Sawhney and Naidu",Ahmedabad,3096430662,naveen47@upadhyay.com,3
+34,Nazareth-Deshpande,Ahmedabad,5114719402,ishita87@chaudhari.com,5
+35,Raman LLC,Anand,4247360588,grewalmadhavi@shah.com,5
+36,Dalal Ltd,Vapi,4498404039,diyashah@sagar.com,5
+37,Palan LLC,Rajkot,4140377524,iyengarleela@sahota.com,5
+38,Keer PLC,Rajkot,4500222943,ikibe@tandon-das.com,4
+39,"Mody, Oak and Bath",Bhavnagar,9559469447,kalaveda@chhabra.com,4
+40,Andra PLC,Surat,6108530079,kalpit28@bahri-tara.com,5
+41,Tripathi-Ramanathan,Vadodara,8110370391,hemanginisastry@sankar.com,3
+42,"Dayal, Dash and Pandya",Ahmedabad,9003274450,farismukhopadhyay@rai.com,3
+43,"Chaudry, Nazareth and Sheth",Vadodara,9889674325,raoaahana@kota.com,5
+44,Palla-Bali,Vadodara,5610061505,uoza@bora.com,5
+45,Borra-Ravi,Vapi,4509514876,venkateshyashodhara@luthra.net,3
+46,"Narayan, Srinivas and Dixit",Anand,1365688312,yashawinikapur@joshi.com,5
+47,"Sharaf, Sharaf and Dube",Ahmedabad,6229903428,neelima14@bahri-varughese.com,3
+48,"Bandi, Narayan and Rajagopalan",Surat,7660536187,asathe@mishra.com,4
+49,"Bhagat, Khatri and Mistry",Anand,5624358502,ganeshupadhriti@tiwari.com,3
+50,Doshi Group,Ahmedabad,3383880768,wsaraf@raj.biz,3
+51,Sabharwal-Raju,Anand,8280492476,keya17@bora.org,5
+52,Soman LLC,Bhavnagar,3181751401,pinglebhavika@tripathi.com,5
+53,"Merchant, Padmanabhan and Dave",Bharuch,2010453706,mitalyashawini@bhalla.com,5
+54,Sidhu and Sons,Rajkot,0449833449,indirasodhi@buch-chauhan.com,4
+55,"Kadakia, Sankaran and Kuruvilla",Ahmedabad,3674193375,mohinimanda@mane.com,5
+56,Anne Group,Vapi,8730017572,sharmabanjeet@banik.net,5
+57,"Baria, Sachar and Chander",Bharuch,6349139294,vsinha@loyal.com,4
+58,"Mannan, Nadkarni and Balan",Vadodara,2905799824,lavanya59@sura.com,3
+59,Nanda-Ganesan,Rajkot,9977883548,sidhurachita@dugar-ratta.com,5
+60,"Bava, Butala and Comar",Bhavnagar,9433446006,dayamai13@mittal.com,3
+61,"Oza, Desai and Prasad",Vapi,6746759160,qkaran@roy.biz,4
+62,"Kashyap, Bajaj and Sangha",Anand,6678997606,radha78@bail.net,5
+63,Nigam-Panchal,Rajkot,5101385536,oatwal@butala.com,3
+64,"Sastry, Mammen and Reddy",Surat,2731743392,varmaatharv@talwar.com,4
+65,"Goda, Trivedi and Chahal",Vapi,1858437554,wbarman@dua.biz,4
+66,"Chowdhury, Basu and Ray",Bharuch,5297009989,basakethan@tak.com,4
+67,Aurora-Saha,Ahmedabad,8382853688,sathvikrout@dash-borde.biz,5
+68,"Sen, Apte and Mutti",Surat,0693078416,vchatterjee@bhargava-rai.com,3
+69,Gola-Comar,Anand,1359840677,mohammedahuja@rai-kohli.biz,4
+70,Mangat Group,Rajkot,3453320385,brarudyati@nagy-sem.org,3
+71,Handa Group,Bharuch,5528441473,gaurav92@rao.com,5
+72,Chaudhary Inc,Bhavnagar,3661958139,hsura@bahri.com,4
+73,"Gokhale, D’Alia and Tak",Vapi,9409032017,mahaloviya@kade.info,4
+74,Pandey-Shroff,Vadodara,4786994256,siya93@mohan.biz,5
+75,"Dutt, Shah and Halder",Vapi,2127641603,nathanielranganathan@varty.com,4
+76,Chandran Group,Bhavnagar,6017924272,vaishnavi09@muni.com,4
+77,Lata Inc,Surat,5459874932,standon@tella.com,3
+78,Chaudhuri Ltd,Surat,0849306997,lgupta@rout.com,5
+79,Pai-Gola,Rajkot,2383324921,isengupta@varughese.com,3
+80,Jain-Chakrabarti,Anand,3260363872,thomasmital@nair.com,3
+81,Mani LLC,Surat,3517888707,aarnav26@dhingra-reddy.net,3
+82,Jayaraman-Golla,Vapi,4726844918,dhingrafalak@dugar.com,4
+83,Nazareth-Nori,Anand,6669602525,ishanimore@rege-vyas.com,5
+84,Savant Inc,Surat,5139151254,dugalkamya@thakkar.com,5
+85,Dhar LLC,Surat,2505204115,abhimanyumukherjee@rastogi.net,4
+86,"Wagle, Sarma and Manda",Vapi,1663130914,xalak47@sama-gola.com,5
+87,"Mukherjee, Viswanathan and Dayal",Vapi,8308605961,ldua@palla.com,4
+88,Bail Ltd,Vadodara,3999804224,anagi@saran-dua.org,4
+89,"Uppal, Chaudry and Baral",Anand,2189840432,lekhagaba@sami.com,5
+90,Kadakia-Raman,Surat,4741138076,diya40@taneja.com,5
+91,Walia Group,Ahmedabad,3525932516,trivedivanya@chakraborty-rastogi.com,4
+92,"Agate, Sane and Rajan",Vadodara,3972490341,wpatla@brar.com,4
+93,Cherian PLC,Vapi,5975619777,vedhikamaharaj@edwin-basak.com,5
+94,"Raman, Memon and Dhillon",Ahmedabad,6641257842,rajfarhan@naidu-boase.com,4
+95,"Arya, Nagar and Sanghvi",Anand,2866290720,kapoorsamaksh@karnik-mann.com,5
+96,"Om, Narayan and Khurana",Bharuch,0599639196,priya36@gopal-ramanathan.com,5
+97,Goyal Group,Rajkot,2754338910,ridhi25@mitra.com,4
+98,Keer-Nagar,Rajkot,8493252458,chanchalchakrabarti@naidu.com,3
+99,"Nair, Pradhan and Rajagopalan",Rajkot,7911113911,doshizayyan@chauhan.com,4
+100,Wable-Parsa,Vapi,9153162019,karannihal@buch.com,3

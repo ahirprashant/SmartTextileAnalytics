@@ -1,0 +1,501 @@
+product_id,product_name,category,brand,fabric,cost_price,selling_price,gst
+1,Denim Fabric,Men Wear,Garden,Denim,1430,1955,5
+2,Formal Shirt,Men Wear,Vimal,Formal,2065,2916,5
+3,Rayon Fabric,Fabric,Garden,Rayon,411,749,18
+4,Dress Material,Women Wear,Raymond,Dress,1402,2256,5
+5,Shirt Fabric,Men Wear,Arvind,Shirt,753,1002,12
+6,Printed Fabric,Fabric,Local Brand,Printed,2864,3202,5
+7,Printed Fabric,Fabric,Donear,Printed,2560,2778,18
+8,Polyester Fabric,Fabric,Vimal,Polyester,221,739,5
+9,Printed Fabric,Fabric,Arvind,Printed,631,1046,12
+10,Shirt Fabric,Men Wear,Donear,Shirt,1413,2171,5
+11,Formal Shirt,Men Wear,Donear,Formal,1980,2252,12
+12,Silk Saree,Women Wear,Donear,Silk,1017,1237,18
+13,Polyester Fabric,Fabric,Garden,Polyester,396,951,12
+14,Denim Fabric,Men Wear,Garden,Denim,1333,2189,5
+15,T-Shirt,Men Wear,Raymond,T-Shirt,1460,1852,5
+16,Polyester Fabric,Fabric,Arvind,Polyester,2814,2979,18
+17,Rayon Fabric,Fabric,Local Brand,Rayon,770,1548,5
+18,Polyester Fabric,Fabric,Local Brand,Polyester,2065,2671,5
+19,Formal Shirt,Men Wear,Vimal,Formal,2313,2982,12
+20,Rayon Fabric,Fabric,Garden,Rayon,428,637,12
+21,Silk Saree,Women Wear,Vimal,Silk,2883,3325,18
+22,T-Shirt,Men Wear,Donear,T-Shirt,608,1057,18
+23,Formal Shirt,Men Wear,Vimal,Formal,970,1450,18
+24,Cotton Saree,Women Wear,Vimal,Cotton,986,1699,5
+25,Designer Saree,Women Wear,Raymond,Designer,2395,3364,5
+26,Dress Material,Women Wear,Raymond,Dress,2432,2546,18
+27,Cotton Saree,Women Wear,Local Brand,Cotton,1200,1855,5
+28,Cotton Saree,Women Wear,Donear,Cotton,2519,2834,18
+29,Printed Fabric,Fabric,Garden,Printed,639,1273,18
+30,Cotton Fabric,Fabric,Garden,Cotton,1552,2313,5
+31,Formal Shirt,Men Wear,Local Brand,Formal,579,793,12
+32,Shirt Fabric,Men Wear,Raymond,Shirt,1197,1868,18
+33,Denim Fabric,Men Wear,Local Brand,Denim,2434,3260,5
+34,Silk Saree,Women Wear,Arvind,Silk,246,496,18
+35,Printed Fabric,Fabric,Raymond,Printed,1385,1678,12
+36,Cotton Shirt,Men Wear,Local Brand,Cotton,1285,1799,5
+37,Denim Fabric,Men Wear,Arvind,Denim,2008,2495,5
+38,Printed Fabric,Fabric,Donear,Printed,2308,3152,18
+39,Cotton Saree,Women Wear,Raymond,Cotton,975,1634,12
+40,Designer Saree,Women Wear,Raymond,Designer,997,1522,18
+41,Silk Saree,Women Wear,Donear,Silk,1013,1964,12
+42,Polyester Fabric,Fabric,Local Brand,Polyester,251,566,18
+43,Linen Fabric,Fabric,Arvind,Linen,1758,2477,12
+44,Cotton Saree,Women Wear,Raymond,Cotton,2514,3330,12
+45,Kurti,Women Wear,Vimal,Kurti,2309,2733,5
+46,Linen Fabric,Fabric,Local Brand,Linen,2469,3114,12
+47,Polyester Fabric,Fabric,Arvind,Polyester,1221,1418,12
+48,Polyester Fabric,Fabric,Garden,Polyester,1541,1653,12
+49,T-Shirt,Men Wear,Donear,T-Shirt,2581,3027,5
+50,Polyester Fabric,Fabric,Donear,Polyester,2707,3211,12
+51,Rayon Fabric,Fabric,Local Brand,Rayon,1936,2292,12
+52,Designer Saree,Women Wear,Local Brand,Designer,743,1121,5
+53,Cotton Shirt,Men Wear,Vimal,Cotton,1388,2087,12
+54,Cotton Fabric,Fabric,Vimal,Cotton,2495,3486,5
+55,Cotton Saree,Women Wear,Garden,Cotton,1244,1755,12
+56,Kurti,Women Wear,Local Brand,Kurti,207,991,18
+57,Cotton Saree,Women Wear,Donear,Cotton,2934,3592,5
+58,Kurti,Women Wear,Donear,Kurti,2731,3425,18
+59,Formal Shirt,Men Wear,Garden,Formal,442,705,18
+60,Cotton Fabric,Fabric,Local Brand,Cotton,2538,3497,5
+61,Cotton Fabric,Fabric,Arvind,Cotton,2584,3283,12
+62,Polyester Fabric,Fabric,Raymond,Polyester,2333,2664,12
+63,Silk Saree,Women Wear,Donear,Silk,563,1058,12
+64,Linen Fabric,Fabric,Vimal,Linen,1247,1897,12
+65,Silk Saree,Women Wear,Arvind,Silk,1195,1310,12
+66,Polyester Fabric,Fabric,Vimal,Polyester,1258,2205,5
+67,Denim Fabric,Men Wear,Vimal,Denim,1170,1309,5
+68,Polyester Fabric,Fabric,Raymond,Polyester,1785,2669,18
+69,Silk Saree,Women Wear,Donear,Silk,1170,2125,5
+70,Printed Fabric,Fabric,Raymond,Printed,1685,1994,5
+71,Denim Fabric,Men Wear,Vimal,Denim,2295,2854,12
+72,T-Shirt,Men Wear,Local Brand,T-Shirt,597,1494,12
+73,Denim Fabric,Men Wear,Vimal,Denim,593,1208,5
+74,Silk Saree,Women Wear,Vimal,Silk,1789,2551,5
+75,Printed Fabric,Fabric,Local Brand,Printed,928,1112,18
+76,Denim Fabric,Men Wear,Vimal,Denim,1874,2756,12
+77,Denim Fabric,Men Wear,Local Brand,Denim,2494,3322,18
+78,Silk Saree,Women Wear,Vimal,Silk,2011,2848,5
+79,Shirt Fabric,Men Wear,Arvind,Shirt,1573,2050,18
+80,Designer Saree,Women Wear,Local Brand,Designer,1612,2496,12
+81,Cotton Shirt,Men Wear,Raymond,Cotton,1073,2065,18
+82,Cotton Saree,Women Wear,Local Brand,Cotton,2234,2471,5
+83,Linen Fabric,Fabric,Raymond,Linen,635,918,5
+84,Printed Fabric,Fabric,Local Brand,Printed,1503,1738,18
+85,Cotton Shirt,Men Wear,Donear,Cotton,2463,3439,18
+86,Shirt Fabric,Men Wear,Arvind,Shirt,2629,2900,18
+87,Linen Fabric,Fabric,Vimal,Linen,1974,2239,12
+88,Cotton Saree,Women Wear,Arvind,Cotton,2215,2352,18
+89,Kurti,Women Wear,Donear,Kurti,2149,2931,12
+90,Cotton Shirt,Men Wear,Donear,Cotton,460,656,18
+91,Rayon Fabric,Fabric,Arvind,Rayon,249,709,18
+92,Silk Saree,Women Wear,Donear,Silk,1204,2166,5
+93,Cotton Saree,Women Wear,Arvind,Cotton,2786,3261,12
+94,Printed Fabric,Fabric,Garden,Printed,2556,3154,5
+95,Printed Fabric,Fabric,Local Brand,Printed,1862,2346,18
+96,T-Shirt,Men Wear,Vimal,T-Shirt,861,1726,5
+97,Cotton Saree,Women Wear,Garden,Cotton,622,1127,18
+98,T-Shirt,Men Wear,Raymond,T-Shirt,871,1565,5
+99,Shirt Fabric,Men Wear,Vimal,Shirt,2873,3448,12
+100,Shirt Fabric,Men Wear,Local Brand,Shirt,1591,1996,5
+101,T-Shirt,Men Wear,Vimal,T-Shirt,226,572,5
+102,Rayon Fabric,Fabric,Garden,Rayon,2638,3606,5
+103,Dress Material,Women Wear,Garden,Dress,763,1516,18
+104,Denim Fabric,Men Wear,Garden,Denim,1035,2021,5
+105,Rayon Fabric,Fabric,Raymond,Rayon,1812,2033,12
+106,Silk Saree,Women Wear,Donear,Silk,886,1278,12
+107,Dress Material,Women Wear,Garden,Dress,688,1407,5
+108,Kurti,Women Wear,Arvind,Kurti,1230,2173,12
+109,Dress Material,Women Wear,Local Brand,Dress,2070,2800,12
+110,Rayon Fabric,Fabric,Donear,Rayon,1495,1712,18
+111,Printed Fabric,Fabric,Vimal,Printed,1355,1558,12
+112,T-Shirt,Men Wear,Raymond,T-Shirt,2155,2822,12
+113,Denim Fabric,Men Wear,Donear,Denim,426,1181,5
+114,Formal Shirt,Men Wear,Donear,Formal,1334,1503,18
+115,Cotton Fabric,Fabric,Local Brand,Cotton,1723,2411,12
+116,Cotton Shirt,Men Wear,Donear,Cotton,1071,1309,18
+117,Linen Fabric,Fabric,Arvind,Linen,2748,3365,12
+118,Cotton Saree,Women Wear,Arvind,Cotton,1281,1720,5
+119,Cotton Saree,Women Wear,Vimal,Cotton,2073,2521,18
+120,Rayon Fabric,Fabric,Vimal,Rayon,654,767,18
+121,Linen Fabric,Fabric,Donear,Linen,2221,2814,18
+122,T-Shirt,Men Wear,Arvind,T-Shirt,1216,1992,18
+123,Cotton Fabric,Fabric,Raymond,Cotton,1894,2520,5
+124,Cotton Saree,Women Wear,Raymond,Cotton,1954,2904,18
+125,Shirt Fabric,Men Wear,Vimal,Shirt,928,1909,12
+126,Polyester Fabric,Fabric,Raymond,Polyester,1147,1627,12
+127,Cotton Fabric,Fabric,Local Brand,Cotton,2587,3130,18
+128,Kurti,Women Wear,Garden,Kurti,2584,3287,12
+129,Designer Saree,Women Wear,Raymond,Designer,1740,1846,18
+130,Designer Saree,Women Wear,Raymond,Designer,2601,3087,18
+131,Designer Saree,Women Wear,Donear,Designer,1072,1276,12
+132,T-Shirt,Men Wear,Donear,T-Shirt,452,813,5
+133,Formal Shirt,Men Wear,Arvind,Formal,1989,2881,5
+134,T-Shirt,Men Wear,Local Brand,T-Shirt,1945,2561,18
+135,Denim Fabric,Men Wear,Garden,Denim,767,1125,5
+136,Linen Fabric,Fabric,Vimal,Linen,730,1437,5
+137,Linen Fabric,Fabric,Raymond,Linen,1588,1711,12
+138,Cotton Shirt,Men Wear,Arvind,Cotton,2717,3431,5
+139,Formal Shirt,Men Wear,Garden,Formal,1323,2108,18
+140,Polyester Fabric,Fabric,Raymond,Polyester,2396,2971,18
+141,Linen Fabric,Fabric,Garden,Linen,915,1859,5
+142,Polyester Fabric,Fabric,Garden,Polyester,864,968,5
+143,Polyester Fabric,Fabric,Local Brand,Polyester,259,919,12
+144,Denim Fabric,Men Wear,Raymond,Denim,1239,1905,18
+145,Rayon Fabric,Fabric,Local Brand,Rayon,1998,2522,5
+146,Formal Shirt,Men Wear,Vimal,Formal,2273,2413,5
+147,Cotton Shirt,Men Wear,Local Brand,Cotton,2206,2654,12
+148,Formal Shirt,Men Wear,Donear,Formal,1139,1289,12
+149,Silk Saree,Women Wear,Vimal,Silk,368,1047,18
+150,Denim Fabric,Men Wear,Arvind,Denim,2505,3075,18
+151,Silk Saree,Women Wear,Garden,Silk,1281,1759,12
+152,Polyester Fabric,Fabric,Vimal,Polyester,2348,2459,18
+153,Silk Saree,Women Wear,Arvind,Silk,2201,2588,12
+154,Denim Fabric,Men Wear,Garden,Denim,1763,1907,5
+155,Silk Saree,Women Wear,Donear,Silk,675,1485,5
+156,Cotton Shirt,Men Wear,Arvind,Cotton,660,829,18
+157,Shirt Fabric,Men Wear,Vimal,Shirt,2937,3198,12
+158,T-Shirt,Men Wear,Vimal,T-Shirt,2865,3716,12
+159,Designer Saree,Women Wear,Vimal,Designer,1486,2239,5
+160,Printed Fabric,Fabric,Garden,Printed,532,747,12
+161,Silk Saree,Women Wear,Raymond,Silk,1358,1663,12
+162,Designer Saree,Women Wear,Donear,Designer,2031,2814,18
+163,Kurti,Women Wear,Donear,Kurti,1171,1555,18
+164,Printed Fabric,Fabric,Garden,Printed,1036,1746,5
+165,Cotton Saree,Women Wear,Vimal,Cotton,472,727,18
+166,Linen Fabric,Fabric,Local Brand,Linen,1348,1521,18
+167,Cotton Shirt,Men Wear,Arvind,Cotton,2566,3153,12
+168,Cotton Shirt,Men Wear,Garden,Cotton,977,1382,12
+169,Cotton Fabric,Fabric,Raymond,Cotton,499,1475,18
+170,Cotton Shirt,Men Wear,Garden,Cotton,481,774,12
+171,Polyester Fabric,Fabric,Raymond,Polyester,1069,1940,5
+172,Silk Saree,Women Wear,Local Brand,Silk,2194,2454,12
+173,Polyester Fabric,Fabric,Arvind,Polyester,2684,2866,12
+174,Cotton Fabric,Fabric,Local Brand,Cotton,562,1261,5
+175,Polyester Fabric,Fabric,Raymond,Polyester,1043,1339,5
+176,Printed Fabric,Fabric,Donear,Printed,1854,2739,12
+177,T-Shirt,Men Wear,Raymond,T-Shirt,1831,2050,18
+178,Cotton Saree,Women Wear,Vimal,Cotton,2580,3030,12
+179,Denim Fabric,Men Wear,Raymond,Denim,2584,3265,12
+180,Printed Fabric,Fabric,Donear,Printed,1152,1598,18
+181,Cotton Fabric,Fabric,Raymond,Cotton,2414,2718,12
+182,Printed Fabric,Fabric,Arvind,Printed,1483,1984,5
+183,Cotton Fabric,Fabric,Garden,Cotton,1673,2089,18
+184,Denim Fabric,Men Wear,Arvind,Denim,356,1092,18
+185,Polyester Fabric,Fabric,Local Brand,Polyester,965,1278,18
+186,Cotton Fabric,Fabric,Donear,Cotton,865,1183,18
+187,Dress Material,Women Wear,Donear,Dress,2541,2955,18
+188,Cotton Fabric,Fabric,Raymond,Cotton,1607,2395,12
+189,Formal Shirt,Men Wear,Donear,Formal,2127,2648,5
+190,T-Shirt,Men Wear,Vimal,T-Shirt,1075,1907,18
+191,T-Shirt,Men Wear,Arvind,T-Shirt,2525,3295,18
+192,Kurti,Women Wear,Donear,Kurti,2309,2556,12
+193,Kurti,Women Wear,Garden,Kurti,1707,1997,5
+194,Cotton Shirt,Men Wear,Vimal,Cotton,876,1685,18
+195,Polyester Fabric,Fabric,Garden,Polyester,2975,3355,18
+196,Polyester Fabric,Fabric,Raymond,Polyester,305,484,18
+197,Dress Material,Women Wear,Vimal,Dress,964,1871,5
+198,Cotton Saree,Women Wear,Garden,Cotton,2313,2460,18
+199,Shirt Fabric,Men Wear,Arvind,Shirt,2499,3171,5
+200,Cotton Shirt,Men Wear,Arvind,Cotton,990,1369,18
+201,Kurti,Women Wear,Vimal,Kurti,517,835,12
+202,Cotton Fabric,Fabric,Arvind,Cotton,1062,1626,5
+203,Cotton Shirt,Men Wear,Arvind,Cotton,1656,2382,5
+204,Cotton Fabric,Fabric,Vimal,Cotton,1660,2238,18
+205,Polyester Fabric,Fabric,Raymond,Polyester,2093,2771,12
+206,Printed Fabric,Fabric,Arvind,Printed,1923,2209,12
+207,Polyester Fabric,Fabric,Arvind,Polyester,2432,2608,5
+208,Formal Shirt,Men Wear,Raymond,Formal,395,850,12
+209,Kurti,Women Wear,Arvind,Kurti,1427,2092,12
+210,Cotton Saree,Women Wear,Raymond,Cotton,2347,2998,12
+211,Designer Saree,Women Wear,Vimal,Designer,1772,2282,12
+212,Cotton Saree,Women Wear,Vimal,Cotton,318,946,12
+213,Kurti,Women Wear,Arvind,Kurti,2124,2405,5
+214,Polyester Fabric,Fabric,Raymond,Polyester,2352,3142,5
+215,Silk Saree,Women Wear,Vimal,Silk,2239,2833,12
+216,T-Shirt,Men Wear,Local Brand,T-Shirt,2473,3205,12
+217,Kurti,Women Wear,Local Brand,Kurti,2175,2285,18
+218,Cotton Saree,Women Wear,Vimal,Cotton,2243,2389,5
+219,Cotton Fabric,Fabric,Raymond,Cotton,2524,3479,5
+220,Rayon Fabric,Fabric,Local Brand,Rayon,354,476,18
+221,Designer Saree,Women Wear,Donear,Designer,2892,3774,5
+222,Cotton Saree,Women Wear,Vimal,Cotton,1508,1954,12
+223,Dress Material,Women Wear,Garden,Dress,1618,2415,12
+224,Designer Saree,Women Wear,Raymond,Designer,1540,2060,18
+225,Shirt Fabric,Men Wear,Local Brand,Shirt,2386,2864,18
+226,Rayon Fabric,Fabric,Local Brand,Rayon,850,1436,18
+227,T-Shirt,Men Wear,Vimal,T-Shirt,870,1814,5
+228,Cotton Shirt,Men Wear,Donear,Cotton,1909,2235,5
+229,Kurti,Women Wear,Donear,Kurti,1313,1630,12
+230,Shirt Fabric,Men Wear,Raymond,Shirt,2797,3038,12
+231,Formal Shirt,Men Wear,Raymond,Formal,1882,2878,5
+232,Designer Saree,Women Wear,Arvind,Designer,2064,2729,12
+233,Cotton Shirt,Men Wear,Local Brand,Cotton,649,1612,18
+234,Kurti,Women Wear,Donear,Kurti,2099,2906,12
+235,Denim Fabric,Men Wear,Donear,Denim,2063,2454,12
+236,Rayon Fabric,Fabric,Garden,Rayon,727,934,5
+237,Dress Material,Women Wear,Donear,Dress,1234,1494,12
+238,Formal Shirt,Men Wear,Raymond,Formal,1758,2220,5
+239,Formal Shirt,Men Wear,Local Brand,Formal,2140,3040,12
+240,Silk Saree,Women Wear,Arvind,Silk,473,690,12
+241,Dress Material,Women Wear,Donear,Dress,1780,2191,18
+242,Cotton Shirt,Men Wear,Donear,Cotton,1882,2863,12
+243,Silk Saree,Women Wear,Vimal,Silk,2904,3434,18
+244,Rayon Fabric,Fabric,Vimal,Rayon,2734,3399,5
+245,Kurti,Women Wear,Local Brand,Kurti,1684,1904,5
+246,Shirt Fabric,Men Wear,Arvind,Shirt,2554,3485,5
+247,T-Shirt,Men Wear,Donear,T-Shirt,2227,3149,5
+248,Dress Material,Women Wear,Vimal,Dress,255,1092,12
+249,Denim Fabric,Men Wear,Vimal,Denim,916,1771,5
+250,Designer Saree,Women Wear,Garden,Designer,2696,2893,5
+251,Formal Shirt,Men Wear,Donear,Formal,1808,1965,5
+252,T-Shirt,Men Wear,Vimal,T-Shirt,1182,1730,12
+253,Cotton Fabric,Fabric,Vimal,Cotton,2707,3090,12
+254,Silk Saree,Women Wear,Arvind,Silk,348,668,18
+255,Dress Material,Women Wear,Local Brand,Dress,2943,3221,18
+256,Kurti,Women Wear,Arvind,Kurti,1268,2175,18
+257,Cotton Shirt,Men Wear,Garden,Cotton,714,1043,5
+258,Shirt Fabric,Men Wear,Arvind,Shirt,2879,3736,12
+259,Cotton Shirt,Men Wear,Donear,Cotton,2838,3006,18
+260,Formal Shirt,Men Wear,Donear,Formal,2573,2939,18
+261,Polyester Fabric,Fabric,Raymond,Polyester,953,1388,12
+262,Polyester Fabric,Fabric,Local Brand,Polyester,2638,3180,18
+263,Denim Fabric,Men Wear,Arvind,Denim,2223,2469,12
+264,Polyester Fabric,Fabric,Donear,Polyester,1381,2373,18
+265,Denim Fabric,Men Wear,Vimal,Denim,2811,3358,5
+266,T-Shirt,Men Wear,Donear,T-Shirt,1014,1545,5
+267,Denim Fabric,Men Wear,Garden,Denim,1335,2264,12
+268,Designer Saree,Women Wear,Vimal,Designer,752,1165,5
+269,T-Shirt,Men Wear,Vimal,T-Shirt,255,392,18
+270,Rayon Fabric,Fabric,Local Brand,Rayon,655,832,12
+271,Dress Material,Women Wear,Vimal,Dress,2339,2498,12
+272,Cotton Shirt,Men Wear,Raymond,Cotton,1372,1518,18
+273,Cotton Shirt,Men Wear,Local Brand,Cotton,826,1537,12
+274,Rayon Fabric,Fabric,Raymond,Rayon,2304,3038,18
+275,Cotton Fabric,Fabric,Garden,Cotton,1989,2421,12
+276,Designer Saree,Women Wear,Raymond,Designer,1784,2508,18
+277,Cotton Fabric,Fabric,Arvind,Cotton,462,1099,12
+278,Designer Saree,Women Wear,Arvind,Designer,2371,3086,12
+279,Polyester Fabric,Fabric,Garden,Polyester,1995,2948,12
+280,Printed Fabric,Fabric,Local Brand,Printed,1552,2339,12
+281,Printed Fabric,Fabric,Local Brand,Printed,1118,1862,12
+282,Shirt Fabric,Men Wear,Local Brand,Shirt,652,1244,12
+283,Printed Fabric,Fabric,Local Brand,Printed,2027,2224,12
+284,T-Shirt,Men Wear,Donear,T-Shirt,2452,2845,12
+285,Cotton Shirt,Men Wear,Arvind,Cotton,2852,3374,5
+286,Formal Shirt,Men Wear,Vimal,Formal,926,1407,12
+287,T-Shirt,Men Wear,Vimal,T-Shirt,2061,2555,5
+288,Cotton Saree,Women Wear,Arvind,Cotton,2733,3196,18
+289,T-Shirt,Men Wear,Arvind,T-Shirt,1465,2181,18
+290,Shirt Fabric,Men Wear,Local Brand,Shirt,2307,2496,12
+291,Shirt Fabric,Men Wear,Donear,Shirt,2825,3225,12
+292,Cotton Shirt,Men Wear,Donear,Cotton,962,1771,5
+293,T-Shirt,Men Wear,Raymond,T-Shirt,2257,2441,18
+294,Denim Fabric,Men Wear,Arvind,Denim,2953,3116,12
+295,Kurti,Women Wear,Donear,Kurti,1792,2777,18
+296,Polyester Fabric,Fabric,Garden,Polyester,895,1811,12
+297,Polyester Fabric,Fabric,Donear,Polyester,2214,2544,18
+298,Denim Fabric,Men Wear,Garden,Denim,2788,3235,18
+299,Cotton Saree,Women Wear,Donear,Cotton,2270,3096,18
+300,Silk Saree,Women Wear,Raymond,Silk,2918,3503,5
+301,Silk Saree,Women Wear,Donear,Silk,2431,2712,18
+302,Cotton Saree,Women Wear,Arvind,Cotton,317,923,5
+303,Kurti,Women Wear,Arvind,Kurti,2270,2663,18
+304,Printed Fabric,Fabric,Vimal,Printed,2032,2405,18
+305,Kurti,Women Wear,Vimal,Kurti,2881,3103,18
+306,Denim Fabric,Men Wear,Garden,Denim,1226,1684,5
+307,Shirt Fabric,Men Wear,Vimal,Shirt,2901,3831,5
+308,T-Shirt,Men Wear,Garden,T-Shirt,1690,2335,18
+309,Shirt Fabric,Men Wear,Raymond,Shirt,1523,2457,5
+310,Polyester Fabric,Fabric,Donear,Polyester,430,687,12
+311,Denim Fabric,Men Wear,Donear,Denim,1330,1537,18
+312,Silk Saree,Women Wear,Local Brand,Silk,1203,1759,18
+313,Cotton Fabric,Fabric,Raymond,Cotton,2962,3338,12
+314,Silk Saree,Women Wear,Raymond,Silk,1559,1845,12
+315,Polyester Fabric,Fabric,Raymond,Polyester,2904,3259,5
+316,Formal Shirt,Men Wear,Donear,Formal,239,904,5
+317,Formal Shirt,Men Wear,Vimal,Formal,1368,1638,12
+318,Cotton Shirt,Men Wear,Local Brand,Cotton,2794,3459,5
+319,Formal Shirt,Men Wear,Vimal,Formal,740,1575,12
+320,Silk Saree,Women Wear,Arvind,Silk,2821,3542,5
+321,T-Shirt,Men Wear,Raymond,T-Shirt,830,1313,18
+322,Designer Saree,Women Wear,Raymond,Designer,1790,2780,12
+323,Silk Saree,Women Wear,Vimal,Silk,356,511,12
+324,Dress Material,Women Wear,Garden,Dress,1721,1847,18
+325,Rayon Fabric,Fabric,Arvind,Rayon,2017,2892,5
+326,Formal Shirt,Men Wear,Local Brand,Formal,2344,3073,5
+327,Polyester Fabric,Fabric,Local Brand,Polyester,476,1457,12
+328,Cotton Saree,Women Wear,Garden,Cotton,316,974,12
+329,Polyester Fabric,Fabric,Raymond,Polyester,933,1184,12
+330,Linen Fabric,Fabric,Vimal,Linen,2868,3305,12
+331,Printed Fabric,Fabric,Donear,Printed,395,866,18
+332,Cotton Saree,Women Wear,Vimal,Cotton,2247,2598,12
+333,Denim Fabric,Men Wear,Arvind,Denim,1517,1893,18
+334,T-Shirt,Men Wear,Donear,T-Shirt,1395,1518,12
+335,Silk Saree,Women Wear,Local Brand,Silk,2565,3056,5
+336,Denim Fabric,Men Wear,Local Brand,Denim,1894,2392,12
+337,T-Shirt,Men Wear,Garden,T-Shirt,1374,1752,5
+338,Denim Fabric,Men Wear,Vimal,Denim,350,932,18
+339,Cotton Shirt,Men Wear,Vimal,Cotton,1647,1917,18
+340,Designer Saree,Women Wear,Donear,Designer,2624,3548,12
+341,Printed Fabric,Fabric,Raymond,Printed,2098,2362,18
+342,Silk Saree,Women Wear,Donear,Silk,807,1013,5
+343,Cotton Saree,Women Wear,Donear,Cotton,726,1714,12
+344,Rayon Fabric,Fabric,Vimal,Rayon,2086,2478,5
+345,T-Shirt,Men Wear,Local Brand,T-Shirt,2119,2534,18
+346,Rayon Fabric,Fabric,Arvind,Rayon,2775,3400,12
+347,Denim Fabric,Men Wear,Donear,Denim,1155,2136,5
+348,Printed Fabric,Fabric,Vimal,Printed,1286,1551,18
+349,Designer Saree,Women Wear,Garden,Designer,1911,2372,5
+350,Cotton Saree,Women Wear,Donear,Cotton,1801,2371,12
+351,Cotton Saree,Women Wear,Arvind,Cotton,1830,2022,5
+352,Cotton Shirt,Men Wear,Garden,Cotton,2527,2948,5
+353,Formal Shirt,Men Wear,Local Brand,Formal,518,1340,5
+354,Shirt Fabric,Men Wear,Raymond,Shirt,2942,3197,18
+355,Rayon Fabric,Fabric,Vimal,Rayon,1901,2024,12
+356,Cotton Fabric,Fabric,Local Brand,Cotton,806,1763,5
+357,Dress Material,Women Wear,Donear,Dress,2323,2432,18
+358,Formal Shirt,Men Wear,Garden,Formal,2329,3329,5
+359,Kurti,Women Wear,Garden,Kurti,2111,2455,12
+360,Printed Fabric,Fabric,Raymond,Printed,1013,1695,5
+361,T-Shirt,Men Wear,Donear,T-Shirt,2715,3008,5
+362,Silk Saree,Women Wear,Vimal,Silk,1590,1809,5
+363,Printed Fabric,Fabric,Arvind,Printed,2655,3215,12
+364,Rayon Fabric,Fabric,Donear,Rayon,1728,2015,18
+365,Denim Fabric,Men Wear,Vimal,Denim,2849,2984,12
+366,Shirt Fabric,Men Wear,Garden,Shirt,2889,3451,18
+367,Cotton Saree,Women Wear,Vimal,Cotton,1428,2180,18
+368,Shirt Fabric,Men Wear,Vimal,Shirt,990,1793,5
+369,Linen Fabric,Fabric,Donear,Linen,816,1386,18
+370,Polyester Fabric,Fabric,Vimal,Polyester,323,582,18
+371,Dress Material,Women Wear,Local Brand,Dress,303,1263,12
+372,Cotton Fabric,Fabric,Arvind,Cotton,1469,2429,18
+373,Rayon Fabric,Fabric,Vimal,Rayon,2837,3539,18
+374,Shirt Fabric,Men Wear,Donear,Shirt,2092,2316,12
+375,Cotton Shirt,Men Wear,Raymond,Cotton,936,1415,18
+376,Formal Shirt,Men Wear,Raymond,Formal,2325,2952,18
+377,Linen Fabric,Fabric,Donear,Linen,1239,1920,18
+378,Designer Saree,Women Wear,Donear,Designer,2005,2652,18
+379,T-Shirt,Men Wear,Local Brand,T-Shirt,2471,2638,5
+380,Cotton Saree,Women Wear,Raymond,Cotton,1691,1948,12
+381,Cotton Shirt,Men Wear,Arvind,Cotton,2096,2838,18
+382,Shirt Fabric,Men Wear,Garden,Shirt,1842,2708,18
+383,Polyester Fabric,Fabric,Donear,Polyester,637,1289,12
+384,Designer Saree,Women Wear,Donear,Designer,1801,2226,12
+385,Polyester Fabric,Fabric,Garden,Polyester,1501,2335,18
+386,Silk Saree,Women Wear,Vimal,Silk,1843,2840,12
+387,Formal Shirt,Men Wear,Vimal,Formal,2992,3770,18
+388,Linen Fabric,Fabric,Garden,Linen,2446,3278,12
+389,Formal Shirt,Men Wear,Arvind,Formal,1825,2570,18
+390,Formal Shirt,Men Wear,Donear,Formal,489,840,5
+391,Printed Fabric,Fabric,Local Brand,Printed,326,942,5
+392,Silk Saree,Women Wear,Donear,Silk,2691,3294,5
+393,Printed Fabric,Fabric,Donear,Printed,2656,3321,5
+394,T-Shirt,Men Wear,Vimal,T-Shirt,319,538,5
+395,Polyester Fabric,Fabric,Donear,Polyester,2905,3444,18
+396,Printed Fabric,Fabric,Local Brand,Printed,1703,2038,12
+397,Cotton Fabric,Fabric,Donear,Cotton,905,1391,5
+398,Linen Fabric,Fabric,Donear,Linen,1644,2365,18
+399,Polyester Fabric,Fabric,Arvind,Polyester,2104,2495,5
+400,T-Shirt,Men Wear,Garden,T-Shirt,2759,3408,5
+401,Polyester Fabric,Fabric,Donear,Polyester,464,1193,12
+402,Silk Saree,Women Wear,Vimal,Silk,2490,3131,5
+403,Cotton Fabric,Fabric,Garden,Cotton,1184,1873,5
+404,Linen Fabric,Fabric,Donear,Linen,1924,2169,12
+405,Cotton Fabric,Fabric,Raymond,Cotton,646,783,12
+406,Designer Saree,Women Wear,Raymond,Designer,2125,2344,12
+407,Dress Material,Women Wear,Local Brand,Dress,757,1418,12
+408,Linen Fabric,Fabric,Raymond,Linen,2645,3232,5
+409,Denim Fabric,Men Wear,Vimal,Denim,1011,1854,5
+410,Denim Fabric,Men Wear,Garden,Denim,2984,3552,12
+411,Designer Saree,Women Wear,Raymond,Designer,1672,2488,12
+412,Cotton Shirt,Men Wear,Donear,Cotton,2796,3177,12
+413,Rayon Fabric,Fabric,Arvind,Rayon,2333,2652,12
+414,Silk Saree,Women Wear,Arvind,Silk,2523,3505,12
+415,Formal Shirt,Men Wear,Vimal,Formal,222,1131,12
+416,Kurti,Women Wear,Vimal,Kurti,1925,2030,18
+417,Polyester Fabric,Fabric,Raymond,Polyester,779,1474,5
+418,Shirt Fabric,Men Wear,Donear,Shirt,2176,2717,12
+419,Formal Shirt,Men Wear,Raymond,Formal,1601,2578,12
+420,T-Shirt,Men Wear,Garden,T-Shirt,2928,3046,18
+421,T-Shirt,Men Wear,Vimal,T-Shirt,526,952,12
+422,Cotton Saree,Women Wear,Garden,Cotton,2136,2344,18
+423,Dress Material,Women Wear,Donear,Dress,2745,3251,18
+424,Polyester Fabric,Fabric,Garden,Polyester,620,723,5
+425,Printed Fabric,Fabric,Local Brand,Printed,1266,2068,12
+426,Formal Shirt,Men Wear,Donear,Formal,1602,2066,18
+427,Printed Fabric,Fabric,Donear,Printed,863,997,12
+428,Polyester Fabric,Fabric,Donear,Polyester,764,1352,12
+429,Polyester Fabric,Fabric,Vimal,Polyester,2411,2543,18
+430,Dress Material,Women Wear,Local Brand,Dress,1874,2392,12
+431,Kurti,Women Wear,Local Brand,Kurti,2410,2719,18
+432,Printed Fabric,Fabric,Donear,Printed,1197,1380,18
+433,Shirt Fabric,Men Wear,Raymond,Shirt,2002,2747,12
+434,T-Shirt,Men Wear,Vimal,T-Shirt,891,1267,5
+435,Cotton Fabric,Fabric,Garden,Cotton,2931,3447,18
+436,Denim Fabric,Men Wear,Arvind,Denim,654,1377,18
+437,Dress Material,Women Wear,Vimal,Dress,1141,1298,18
+438,Polyester Fabric,Fabric,Donear,Polyester,1433,2048,18
+439,Denim Fabric,Men Wear,Garden,Denim,676,1081,12
+440,T-Shirt,Men Wear,Raymond,T-Shirt,2994,3457,5
+441,Printed Fabric,Fabric,Donear,Printed,2413,3146,5
+442,Kurti,Women Wear,Garden,Kurti,944,1539,18
+443,Cotton Fabric,Fabric,Raymond,Cotton,861,1805,18
+444,Polyester Fabric,Fabric,Donear,Polyester,203,487,12
+445,Polyester Fabric,Fabric,Local Brand,Polyester,2585,3577,12
+446,Cotton Fabric,Fabric,Local Brand,Cotton,838,1724,12
+447,Linen Fabric,Fabric,Vimal,Linen,2336,2635,12
+448,Printed Fabric,Fabric,Donear,Printed,2125,3004,5
+449,Printed Fabric,Fabric,Donear,Printed,1523,2169,5
+450,Dress Material,Women Wear,Donear,Dress,1885,2571,12
+451,Shirt Fabric,Men Wear,Vimal,Shirt,955,1142,18
+452,Cotton Saree,Women Wear,Garden,Cotton,1122,2109,5
+453,Linen Fabric,Fabric,Local Brand,Linen,2363,3061,5
+454,Cotton Fabric,Fabric,Donear,Cotton,2155,2677,18
+455,Dress Material,Women Wear,Garden,Dress,1615,1920,5
+456,Cotton Saree,Women Wear,Arvind,Cotton,1480,2045,12
+457,Formal Shirt,Men Wear,Garden,Formal,2604,3248,5
+458,Printed Fabric,Fabric,Donear,Printed,1104,2037,12
+459,Silk Saree,Women Wear,Local Brand,Silk,205,525,18
+460,Polyester Fabric,Fabric,Arvind,Polyester,1344,1938,18
+461,Polyester Fabric,Fabric,Local Brand,Polyester,492,1118,18
+462,Cotton Saree,Women Wear,Vimal,Cotton,1823,2695,18
+463,Designer Saree,Women Wear,Local Brand,Designer,2752,3547,5
+464,Polyester Fabric,Fabric,Arvind,Polyester,1752,2213,5
+465,Polyester Fabric,Fabric,Local Brand,Polyester,1180,1500,12
+466,Designer Saree,Women Wear,Local Brand,Designer,728,1598,12
+467,T-Shirt,Men Wear,Local Brand,T-Shirt,755,1394,18
+468,Linen Fabric,Fabric,Arvind,Linen,2569,2698,5
+469,Cotton Shirt,Men Wear,Local Brand,Cotton,1226,1612,12
+470,Rayon Fabric,Fabric,Arvind,Rayon,436,918,18
+471,Cotton Shirt,Men Wear,Donear,Cotton,2781,3261,12
+472,Dress Material,Women Wear,Local Brand,Dress,1551,2057,18
+473,Denim Fabric,Men Wear,Arvind,Denim,1942,2316,18
+474,Rayon Fabric,Fabric,Garden,Rayon,2912,3483,5
+475,Silk Saree,Women Wear,Arvind,Silk,2157,2951,5
+476,Formal Shirt,Men Wear,Vimal,Formal,351,650,12
+477,Cotton Saree,Women Wear,Arvind,Cotton,1230,1971,18
+478,Rayon Fabric,Fabric,Garden,Rayon,1561,1699,5
+479,Cotton Shirt,Men Wear,Donear,Cotton,2069,2607,5
+480,Cotton Saree,Women Wear,Arvind,Cotton,1330,1431,18
+481,Silk Saree,Women Wear,Vimal,Silk,2384,2586,5
+482,Linen Fabric,Fabric,Raymond,Linen,2599,3271,18
+483,Cotton Fabric,Fabric,Arvind,Cotton,1057,1844,18
+484,Denim Fabric,Men Wear,Vimal,Denim,1606,1834,12
+485,Shirt Fabric,Men Wear,Vimal,Shirt,2605,2906,5
+486,Cotton Saree,Women Wear,Donear,Cotton,2307,2527,18
+487,T-Shirt,Men Wear,Local Brand,T-Shirt,1733,2116,18
+488,Silk Saree,Women Wear,Vimal,Silk,809,1603,18
+489,Rayon Fabric,Fabric,Arvind,Rayon,2599,3394,12
+490,Kurti,Women Wear,Vimal,Kurti,1370,1895,5
+491,Dress Material,Women Wear,Vimal,Dress,1048,1695,12
+492,Kurti,Women Wear,Arvind,Kurti,1487,2145,18
+493,Denim Fabric,Men Wear,Vimal,Denim,2196,3011,5
+494,Kurti,Women Wear,Garden,Kurti,939,1720,5
+495,Linen Fabric,Fabric,Local Brand,Linen,434,639,12
+496,Silk Saree,Women Wear,Donear,Silk,784,1140,18
+497,Cotton Saree,Women Wear,Raymond,Cotton,1505,1639,18
+498,Kurti,Women Wear,Raymond,Kurti,1578,2326,5
+499,Polyester Fabric,Fabric,Garden,Polyester,1597,2409,12
+500,Designer Saree,Women Wear,Arvind,Designer,2070,2950,12
